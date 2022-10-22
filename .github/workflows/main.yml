@@ -10,6 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: pemtajo/badge-readme@main
+        uses: pemtajo/badge-readme@2.3.0
         with:       
           CREDLY_USER: khaled-waleed.a35d60a4 # optional, but default will use the same from github
