@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 <!--START_SECTION:badges-->
+[![Lifelong Learning](https://images.credly.com/size/110x110/images/f5cf37e4-6ebd-4067-96a9-b26d04f51ff7/CertiProf-Badge-LLL.png)](http://www.credly.com/badges/4ea909d1-ca58-4ec8-b9d0-3660c4aca400 "Lifelong Learning")
+[![Scrum Foundation Professional Certificate - SFPC™](https://images.credly.com/size/110x110/images/3be57d7c-55de-4119-9ca9-738e20c0fae0/Scrum-Foundation-Professional-Certificate-SFPC-2021_.png)](http://www.credly.com/badges/6dbf8eef-6a5e-4d85-99c3-8093c51c455a "Scrum Foundation Professional Certificate - SFPC™")
 <!--END_SECTION:badges-->
 
 <!--
