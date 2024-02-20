@@ -4,10 +4,6 @@
 [![Lifelong Learning](https://images.credly.com/size/110x110/images/f5cf37e4-6ebd-4067-96a9-b26d04f51ff7/CertiProf-Badge-LLL.png)](http://www.credly.com/badges/4ea909d1-ca58-4ec8-b9d0-3660c4aca400 "Lifelong Learning")
 [![Scrum Foundation Professional Certificate - SFPC™]([https://images.credly.com/size/110x110/images/3be57d7c-55de-4119-9ca9-738e20c0fae0/Scrum-Foundation-Professional-Certificate-SFPC-2021_.png](https://images.credly.com/size/340x340/images/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/image.png))](http://www.credly.com/badges/6dbf8eef-6a5e-4d85-99c3-8093c51c455a "Scrum Foundation Professional Certificate - SFPC™")
 <!--END_SECTION:badges-->
-
- <p align="center">
-  <a href="#"><img src="https://i.postimg.cc/hPdC9Y6P/Black-Flatlay-Photo-Motivational-Finance-Quote-Facebook-Cover-1.png" width="1100px" title="Header"></a>
-</p>
 <!-- 
 - 📱 &nbsp;
   ![React Native](https://img.shields.io/badge/-reactnative-333333?style=flat&logo=reactnative)
