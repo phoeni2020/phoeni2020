@@ -32,23 +32,20 @@
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
   ![PHP](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  
-
-
+  #
 - 🌐 &nbsp;
   ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white****)
   ![BitBucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)
   ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
-  
+  #
 - 🔧 &nbsp;
   ![Ubntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   ![My Sql](https://img.shields.io/badge/-mysql-333333?style=flat&logo=mysql)
   ![PostgreSql](https://img.shields.io/badge/-postgresql-333333?style=flat&logo=postgresql).
   ![PostgreSql](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white).
-  
+  #
 -👩‍💻 IDE && Code Editor
-#
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![PHP Storm](http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white)
 
