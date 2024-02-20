@@ -37,7 +37,7 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
--  ![PHP Storm]([https://img.shields.io/badge/-PHP_Storm-333333?style=flat&logo=php-storm&logoColor=007ACC](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white))
+-  ![PHP Storm]([(https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white))
   ![PHP Storm](https://img.shields.io/badge/-PHP_Storm-333333?style=flat&logo=php-storm&logoColor=007ACC)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![My Sql](https://img.shields.io/badge/-mysql-333333?style=flat&logo=mysql)
