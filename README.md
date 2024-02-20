@@ -38,6 +38,8 @@
 - 🌐 &nbsp;
   ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![GitHub](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)
+  
 - 🔧 &nbsp;
   ![Ubntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   ![PHP Storm](https://img.shields.io/badge/-PHP_Storm-333333?style=flat&logo=php-storm&logoColor=007ACC)
