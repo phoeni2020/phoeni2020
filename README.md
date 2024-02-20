@@ -20,7 +20,7 @@
 - ✨ I'm constantly learning new technologies, improving my coding, and working on new projects that will soon be added to my portfolio
 - 💬 I Would like to help about Backend Devlopemnt
 - ⚡ I'm always on the lookout for new opportunities
-- 📫 Check out my CV: [My CV](https://docs.google.com/document/d/1krMykigI_SnC5yOOCTSrRA6WZsZX9HXkyCYgRAr9Dao/edit)
+- 📫 Check out my CV: [My CV](https://docs.google.com/document/d#)
 
 ## 🛠️ Tech Stack
 - 💻 &nbsp;
