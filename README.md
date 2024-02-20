@@ -45,7 +45,7 @@
   #
 -  Database's
    ![My Sql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-   ![PostgreSql](https://img.shields.io/badge/-postgresql-333333?style=flat&logo=postgresql).
+   ![PostgreSql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white).
   #
 -👩‍💻 IDE && Code Editor
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
