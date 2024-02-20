@@ -3,11 +3,6 @@
 [![Lifelong Learning](https://images.credly.com/size/110x110/images/f5cf37e4-6ebd-4067-96a9-b26d04f51ff7/CertiProf-Badge-LLL.png)](http://www.credly.com/badges/4ea909d1-ca58-4ec8-b9d0-3660c4aca400 "Lifelong Learning")
 [![Scrum Foundation Professional Certificate - SFPC™]([https://images.credly.com/size/110x110/images/3be57d7c-55de-4119-9ca9-738e20c0fae0/Scrum-Foundation-Professional-Certificate-SFPC-2021_.png](https://images.credly.com/size/340x340/images/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/image.png))](http://www.credly.com/badges/6dbf8eef-6a5e-4d85-99c3-8093c51c455a "Scrum Foundation Professional Certificate - SFPC™")
 <!--END_SECTION:badges-->
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2tkemZ1eXF0dGRiZXJvdnR5am55ejhqaWs0dTBxd2M4ZW9udjlqZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Y4bzv6DYbYzy8jDnoW/giphy.gif" width="100"/>
- <h1> 👋 Hi, I’m Mustafa Raafat</h1> <a href="https://www.linkedin.com/in/mustafa-raafat-hussein-276b42183"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/></a> <a href="mailto:mustafa.raft2@gmail.com"><img src="https://img.shields.io/badge/gmail-white?style=for-the-badge&logo=gmail"/></a><br>
-<img src="https://komarev.com/ghpvc/?username=MustafaRaafat&style=flat-square&color=blue" alt=""/>
-</div>
 <!-- 
 - 📱 &nbsp;
   ![React Native](https://img.shields.io/badge/-reactnative-333333?style=flat&logo=reactnative)
