@@ -55,7 +55,11 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![PHP Storm](http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white)
 
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2tkemZ1eXF0dGRiZXJvdnR5am55ejhqaWs0dTBxd2M4ZW9udjlqZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Y4bzv6DYbYzy8jDnoW/giphy.gif" width="100"/>
+ <h1> 👋 Hi, I’m Khaled Waleed</h1> <a href="https://www.linkedin.com/in/khaled-waleed-341190131"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/></a> <a href="mailto:khaled.waleed.abdallah.94@gmail.com"><img src="https://img.shields.io/badge/gmail-white?style=for-the-badge&logo=gmail"/></a><br>
+<img src="https://komarev.com/ghpvc/?username=MustafaRaafat&style=flat-square&color=blue" alt=""/>
+</div>
  <h3> 🤝🏻 &nbsp;Connect with Me On</h3>
 <p align="center">
   <a href="[[https://www.linkedin.com/in/khaled-waleed-341190131](https://www.linkedin.com/in/khaled-waleed-341190131/)/](https://www.linkedin.com/in/khaled-waleed-341190131/)" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Khaled waleed-blue?style=flat-square&logo=linkedin"></a>
