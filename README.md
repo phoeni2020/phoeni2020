@@ -63,7 +63,7 @@
   ![PHP Storm](http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white)
 
 
- <h3> <center> 🤝🏻 &nbsp;Connect with Me On</center></h3>
+ <h3 align="center"> 🤝🏻 &nbsp;Connect with Me On</h3>
 <p align="center">
   <a href="[[https://www.linkedin.com/in/khaled-waleed-341190131](https://www.linkedin.com/in/khaled-waleed-341190131/)/](https://www.linkedin.com/in/khaled-waleed-341190131/)" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Khaled waleed-blue?style=flat-square&logo=linkedin"></a>
   <a href="mailto:khaled.waleed.abdallah.94@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-khaled.waleed.abdallah.94@gmail.com-blue?style=flat-square&logo=gmail"></a>
