@@ -45,15 +45,16 @@
   ![Ubntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   ![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white).
   #
+  -👩‍💻 IDE && Code Editor
+  <br>
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![PHP Storm](http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white)
+  #
 -  Database's
     <br>
    ![My Sql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
    ![PostgreSql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white).
   #
--👩‍💻 IDE && Code Editor
-  <br>
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![PHP Storm](http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white)
 
 <div id="header" align="center">
  <h1> 👋 Hi, I’m Khaled Waleed</h1> <a href="https://www.linkedin.com/in/khaled-waleed-341190131"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/></a> <a href="mailto:khaled.waleed.abdallah.94@gmail.com"><img src="https://img.shields.io/badge/gmail-white?style=for-the-badge&logo=gmail"/></a><br>
