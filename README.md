@@ -10,7 +10,7 @@
 - 😄 Check out my website at [My Portfolio](https://ahmedporfolio.vercel.app/)
 - 📫 I'm passionate about creating fully responsive websites
 - 📱 I'm a mobile developer working with React Native, and constantly learning more ..
-
+  <a href="https://ahmedporfolio.vercel.app/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-My Portfolio-blue?style=flat-square&logo=google-chrome"></a>
 
 -->
 ## 👨‍💻 About Me
@@ -47,7 +47,6 @@
 
  <h3> 🤝🏻 &nbsp;Connect with Me On</h3>
 <p align="center">
-  <a href="https://ahmedporfolio.vercel.app/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-My Portfolio-blue?style=flat-square&logo=google-chrome"></a>
-  <a href="[https://www.linkedin.com/in/ahmed-barakat-dev/](https://www.linkedin.com/in/khaled-waleed-341190131/)" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ahmed Barakat-blue?style=flat-square&logo=linkedin"></a>
-  <a href="mailto:ahmedbarakat2401@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-ahmedbarakat2401@gmail.com-blue?style=flat-square&logo=gmail"></a>
+  <a href="[[https://www.linkedin.com/in/khaled-waleed-341190131](https://www.linkedin.com/in/khaled-waleed-341190131/)/](https://www.linkedin.com/in/khaled-waleed-341190131/)" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Khaled waleed-blue?style=flat-square&logo=linkedin"></a>
+  <a href="mailto:khaled.waleed.abdallah.94@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-khaled.waleed.abdallah.94@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
