@@ -1,9 +1,3 @@
-<div id="header" align="center">
- <h1>👋 Hi, I’m Khaled Waleed</h1>
- <a href="https://www.linkedin.com/in/khaled-waleed-341190131"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
-  <a href="mailto:khaled.waleed.abdallah.94@gmail.com"><img src="https://img.shields.io/badge/gmail-white?style=for-the-badge&logo=gmail"/></a><br>
-<img src="https://komarev.com/ghpvc/?username=phoeni2020&style=flat-square&color=blue" alt=""/>
-</div>
 <!--START_SECTION:badges-->
 [![Lifelong Learning](https://images.credly.com/size/110x110/images/f5cf37e4-6ebd-4067-96a9-b26d04f51ff7/CertiProf-Badge-LLL.png)](http://www.credly.com/badges/4ea909d1-ca58-4ec8-b9d0-3660c4aca400 "Lifelong Learning")
 [![Scrum Foundation Professional Certificate - SFPC™]([https://images.credly.com/size/110x110/images/3be57d7c-55de-4119-9ca9-738e20c0fae0/Scrum-Foundation-Professional-Certificate-SFPC-2021_.png](https://images.credly.com/size/340x340/images/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/image.png))](http://www.credly.com/badges/6dbf8eef-6a5e-4d85-99c3-8093c51c455a "Scrum Foundation Professional Certificate - SFPC™")
